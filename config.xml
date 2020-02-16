@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "app.aratap.az"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ТЕСТ. aratap.az</name>
 
@@ -31,7 +31,7 @@ Məqsədimiz, tək paytaxt Baki ve digər böyük şəhərlər üzərə deyil, e
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
+    <preference name="SplashScreenSpinnerColor" value="#F3E132" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -41,17 +41,17 @@ Məqsədimiz, tək paytaxt Baki ve digər böyük şəhərlər üzərə deyil, e
 
 
     <platform name="android">
-        <icon src="res/android/icon/4576a7073edddc9eac79ab7f22a69886.png" density="ldpi" />
-        <icon src="res/android/icon/cdc3ec8c4fe77ca1bac9ea3ffcfa023b.png" density="mdpi" />
-        <icon src="res/android/icon/e93a30e8f3a7626c2535548542cc1989.png" density="hdpi" />
-        <icon src="res/android/icon/69fca6ef7a4ef66c7e0e209b273c3128.png" density="xhdpi" />
-        <icon src="res/android/icon/56c3d8dd7d4bfd9e4d025563f9296a15.png" density="xxhdpi" />
-        <icon src="res/android/icon/5cd10b9583e3918c677b939a8ddc0858.png" density="xxxhdpi" />
+        <icon src="res/android/icon/fe06f271792b4bf0b2c7d72b39b7ec34.png" density="ldpi" />
+        <icon src="res/android/icon/5cf39c988de7cd24e0a4a3960c315817.png" density="mdpi" />
+        <icon src="res/android/icon/3c3dc38058801f82d47fd5e92daef4a8.png" density="hdpi" />
+        <icon src="res/android/icon/256085c878562c0026bfca3dc364084f.png" density="xhdpi" />
+        <icon src="res/android/icon/efe62c09cf9c04ac38ef3080220fc1db.png" density="xxhdpi" />
+        <icon src="res/android/icon/7f1248926f70c18f13dc2a31d65473f7.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/ba9156d42b216b1359521be7102777d7.png" density="port-hdpi"/>
-        <splash src="res/android/screen/383a6a2090386f72ae877920c94ae655.png" density="port-ldpi"/>
-        <splash src="res/android/screen/1981c481ad01b77f77db30401b41e455.png" density="port-mdpi"/>
-        <splash src="res/android/screen/b5bda6918748027d241dd83eaeb3df29.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/98e2368cb42ec2a82588253939ef3026.png" density="port-hdpi"/>
+        <splash src="res/android/screen/491018f516ac3330609975d79e8c2999.png" density="port-ldpi"/>
+        <splash src="res/android/screen/805e1283e3925de62d04c826731b014e.png" density="port-mdpi"/>
+        <splash src="res/android/screen/9a545ebc8736472e525979b11c4ef54c.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
